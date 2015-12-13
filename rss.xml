@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matthew Mayer]]></title>
         <description><![CDATA[Matthew Mayer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthew-mayer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 16:54:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 17:14:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthew-mayer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matthew Mayer]]></title>
-            <description><![CDATA[<article><h1>Matthew Mayer</h1><p>'Matthew Mayer is not just a writer of music, but a writer with Music' </p></article>]]></description>
-            <link>undefinedmatthew-mayer/index.html</link>
+            <description><![CDATA[<article><h1>Matthew Mayer</h1><p>NBC Review</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/781b9d1af6d934ecd0cc54185ed32a8f250d4d71.jpg"></article>]]></description>
+            <link>https://thegrid.ai/matthew-mayer/matthew-mayer/index.html</link>
             <guid isPermaLink="false">e43d22b1-da64-4530-8b77-ba22cee55daa</guid>
-            <pubDate>Sun, 13 Dec 2015 16:53:59 GMT</pubDate>
+            <pubDate>Sun, 13 Dec 2015 17:13:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
